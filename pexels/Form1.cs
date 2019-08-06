@@ -139,7 +139,7 @@ namespace pexels
                         bix.SetPixel(i, j, Color.FromArgb(cobi.A, cobi.R-ort, cobi.G-ort, cobi.B-ort));
                     }
                 }
-            }
+            }//deneme
             pictureBox2.Image = bix;
         }
     }

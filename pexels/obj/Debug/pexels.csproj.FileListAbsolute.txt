@@ -28,3 +28,13 @@ D:\U ANDROİD\pexels\pexels\obj\Debug\pexels.csproj.GenerateResource.cache
 D:\U ANDROİD\pexels\pexels\obj\Debug\pexels.csproj.CoreCompileInputs.cache
 D:\U ANDROİD\pexels\pexels\obj\Debug\pexels.exe
 D:\U ANDROİD\pexels\pexels\obj\Debug\pexels.pdb
+D:\Githup\pexels\pexels\bin\Debug\pexels.exe.config
+D:\Githup\pexels\pexels\bin\Debug\pexels.exe
+D:\Githup\pexels\pexels\bin\Debug\pexels.pdb
+D:\Githup\pexels\pexels\obj\Debug\pexels.csprojAssemblyReference.cache
+D:\Githup\pexels\pexels\obj\Debug\pexels.Form1.resources
+D:\Githup\pexels\pexels\obj\Debug\pexels.Properties.Resources.resources
+D:\Githup\pexels\pexels\obj\Debug\pexels.csproj.GenerateResource.cache
+D:\Githup\pexels\pexels\obj\Debug\pexels.csproj.CoreCompileInputs.cache
+D:\Githup\pexels\pexels\obj\Debug\pexels.exe
+D:\Githup\pexels\pexels\obj\Debug\pexels.pdb
