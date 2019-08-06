@@ -1,0 +1,30 @@
+c:\users\khale\documents\visual studio 2012\Projects\pexels\pexels\bin\Debug\pexels.exe.config
+c:\users\khale\documents\visual studio 2012\Projects\pexels\pexels\bin\Debug\pexels.exe
+c:\users\khale\documents\visual studio 2012\Projects\pexels\pexels\bin\Debug\pexels.pdb
+c:\users\khale\documents\visual studio 2012\Projects\pexels\pexels\obj\Debug\pexels.csprojResolveAssemblyReference.cache
+c:\users\khale\documents\visual studio 2012\Projects\pexels\pexels\obj\Debug\pexels.Form1.resources
+c:\users\khale\documents\visual studio 2012\Projects\pexels\pexels\obj\Debug\pexels.Properties.Resources.resources
+c:\users\khale\documents\visual studio 2012\Projects\pexels\pexels\obj\Debug\pexels.csproj.GenerateResource.Cache
+c:\users\khale\documents\visual studio 2012\Projects\pexels\pexels\obj\Debug\pexels.exe
+c:\users\khale\documents\visual studio 2012\Projects\pexels\pexels\obj\Debug\pexels.pdb
+C:\Users\khale\Documents\Visual Studio 2012\Projects\pexels\pexels\obj\Debug\pexels.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Downloads\أحمد-20171025T152444Z-001\أحمد\pexels\pexels\bin\Debug\pexels.exe.config
+C:\Users\Ahmed\Downloads\أحمد-20171025T152444Z-001\أحمد\pexels\pexels\bin\Debug\pexels.exe
+C:\Users\Ahmed\Downloads\أحمد-20171025T152444Z-001\أحمد\pexels\pexels\bin\Debug\pexels.pdb
+C:\Users\Ahmed\Downloads\أحمد-20171025T152444Z-001\أحمد\pexels\pexels\obj\Debug\pexels.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Downloads\أحمد-20171025T152444Z-001\أحمد\pexels\pexels\obj\Debug\pexels.Form1.resources
+C:\Users\Ahmed\Downloads\أحمد-20171025T152444Z-001\أحمد\pexels\pexels\obj\Debug\pexels.Properties.Resources.resources
+C:\Users\Ahmed\Downloads\أحمد-20171025T152444Z-001\أحمد\pexels\pexels\obj\Debug\pexels.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Downloads\أحمد-20171025T152444Z-001\أحمد\pexels\pexels\obj\Debug\pexels.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Downloads\أحمد-20171025T152444Z-001\أحمد\pexels\pexels\obj\Debug\pexels.exe
+C:\Users\Ahmed\Downloads\أحمد-20171025T152444Z-001\أحمد\pexels\pexels\obj\Debug\pexels.pdb
+D:\U ANDROİD\pexels\pexels\bin\Debug\pexels.exe.config
+D:\U ANDROİD\pexels\pexels\bin\Debug\pexels.exe
+D:\U ANDROİD\pexels\pexels\bin\Debug\pexels.pdb
+D:\U ANDROİD\pexels\pexels\obj\Debug\pexels.csprojAssemblyReference.cache
+D:\U ANDROİD\pexels\pexels\obj\Debug\pexels.Form1.resources
+D:\U ANDROİD\pexels\pexels\obj\Debug\pexels.Properties.Resources.resources
+D:\U ANDROİD\pexels\pexels\obj\Debug\pexels.csproj.GenerateResource.cache
+D:\U ANDROİD\pexels\pexels\obj\Debug\pexels.csproj.CoreCompileInputs.cache
+D:\U ANDROİD\pexels\pexels\obj\Debug\pexels.exe
+D:\U ANDROİD\pexels\pexels\obj\Debug\pexels.pdb
